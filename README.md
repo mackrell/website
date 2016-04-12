@@ -1,20 +1,13 @@
+# Sample Website
 
-    ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--,
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    -----------------------------------------------------------------
+This is a sample website made as part of
+[*Learn Enough™ Git to Be Dangerous*](http://learnenough.com/git-tutorial),
+possibly the greatest beginner Git tutorial in the history of the Universe.
+You should totally [check it out](http://learnenough.com/git-tutorial),
+and be sure to [join the email list](http://learnenough.com/#email_list) and
+[follow @learnenough](http://twitter.com/learnenough) on Twitter.
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-This Cloud9 system is designed to be used with the [Ruby on Rails Tutorial](http://www.railstutorial.org/) by Michael Hartl. Full setup instructions can be found for free online in the [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
-
-For more information on how to use Cloud9, visit http://docs.c9.io for our documentation. If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
-
-# website
+After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git to be
+*dangerous*. This means 	you'll be able to use Git to track changes in your projects,
+back up data, share your work with others, and collaborate with programmers and
+other users of Git.
